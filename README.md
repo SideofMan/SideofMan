@@ -27,3 +27,4 @@ Here's an example of a code solution for August 11th, 2026, where I needed to so
 - Video games (Apex Legends, Hunt: Showdown, Striker's Club)
 - Favorite movies: Inception, The Dark Knight, Whiplash, It's a Wonderful Life, The Room
 - Favorite TV shows: Breaking Bad, Ted Lasso, Chernobyl, Bojack Horseman
+- Favorite books: Mistborn, 11/22/63, Project Hail Mary, Pendragon
