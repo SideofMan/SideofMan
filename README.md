@@ -18,4 +18,4 @@ Looking to start a career in data science or data analytics!
 # [Your Daily Epsilon of Math Solutions!](https://github.com/SideofMan/Daily-Epsilon-of-Math-Solutions)
 Every year I get the Your Daily Epsilon of Math calendar by Rebecca Rapoport and Dean Chung, so this year I decided to type up all my solutions in LaTeX and post it on GitHub. I've also included MATLAB code solutions for (almost) every problem!
 
-![Circle with samples and regions](https://github.com/SideofMan/Daily-Epsilon-of-Math-Solutions/blob/main/2026/August/8-11-img.png)
+<img src="[image-url](https://github.com/SideofMan/Daily-Epsilon-of-Math-Solutions/blob/main/2026/August/8-11-img.png)" alt=" with samples and regions" width="300" height="200">
