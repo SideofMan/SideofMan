@@ -1,6 +1,6 @@
 I'm Josh, a Computational Mathematical and Statistical Sciences PhD Candidate at Marquette University. I'll be graduating in May 2027.
 
-Looking to start a career in data science or data analytics!
+Looking to start a career in data science or data analytics! My current research focuses on applications to geoscience, but I'm interested in different areas such as healthcare, sports, or biomedical fields.
 
 # Published work:
 - [VPPE](https://github.com/SideofMan/VPPE): The Vecchia Parallel Partial Emulator built for quickly fitting Gaussian processes with large training datasets.
